@@ -1,5 +1,5 @@
 {
-"name": "beloura-tracking",
+"name": "beloura-track",
 "private": true,
 "version": "0.0.1",
 "type": "module",
@@ -24,4 +24,5 @@
 "typescript": "^5.5.4",
 "vite": "^5.4.8"
 }
+
 }
