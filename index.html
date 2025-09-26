@@ -17,8 +17,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 
-// Si usas un dominio personalizado con GitHub Pages y CNAME, base puede ser '/'
 export default defineConfig({
 plugins: [react()],
-base: '/',
+base: '/', // Custom domain → base en raíz
 })
